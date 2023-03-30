@@ -10,15 +10,12 @@ The following list presents the improvements that were made on the website:
 
 ## Usage
 When website displayed, the navigation bar is gonna take the user to the disired section by clicking on the links provided on the right corner at the top of the page.
-![navigation bar](/challenge-1/assets/images/screenshot-example.jpg)
+![Navigation bar](/challenge-1/assets/images/screenshot-example.jpg)
 
 
-## Credits
+## DEPLOYED APPLICATION
 
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
-
+URL: https://garfias06.github.io/challenge-1/
 
 ## License
 MIT License
