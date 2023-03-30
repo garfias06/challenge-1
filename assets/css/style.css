@@ -1,3 +1,4 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* navigation bar properties */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +59,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* selectors styling the <main> element on html where being repetitive */
 
+/* selectors where comemented for future reference */
 .content {
     width: 75%;
     display: inline-block;
@@ -75,6 +78,8 @@ p {
     margin-left: 25px;
 }
 
+/* selectors styling semantic html element "<section>" */
+/* "class" selectors share same properties */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -92,10 +97,13 @@ p {
     max-height: 200px;
 }
 
+/* "<h2>" share same properties */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* selectors styling semantic html element "<aside>" */
 
 .benefits {
     margin-right: 20px;
@@ -107,19 +115,19 @@ h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* "class" selectors share same properties */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost  {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* different <h3> headings share same properties */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* "class" selectors share same properties */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
