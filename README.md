@@ -4,17 +4,18 @@
 This website needed code Refactoring, this means the code on both HTML document and CSS sheet had to be restructured without changing
 its main functionality. 
 The following list presents the improvements that were made on the website:
--Website title was renamed to "Horizon" for better SEO (Search Engine Optimization).
--HTML document elements had to be replaced to follow a semantic structure which helps both the user and other developers to follow through the website.
--CSS selectors where repetitive and had to be regrouped and reorganized to follow the semantic structure of the HTML document without affecting the page display.
+
+1.Website title was renamed to "Horizon" for better SEO (Search Engine Optimization).
+
+2.HTML document elements had to be replaced to follow a semantic structure which helps both the user and other developers to follow through the website.
+
+3.CSS selectors where repetitive and had to be regrouped and reorganized to follow the semantic structure of the HTML document without affecting the page display.
 
 ## Usage
 When website displayed, the navigation bar is gonna take the user to the disired section by clicking on the links provided on the right corner at the top of the page.
 ![Navigation bar](/challenge-1/assets/images/screenshot-example.jpg)
 
-
 ## DEPLOYED APPLICATION
-
 URL: https://garfias06.github.io/challenge-1/
 
 ## License
